@@ -1,7 +1,75 @@
-# Anawan - Challenge 1 abonné = 1 ligne de code
+# Nuxt Minimal Starter
 
-Pour ce petit challenge, on code un jeu vidéo en javascript avec la librairie [Phaser](https://phaser.io/), avec autant de lignes de code que d'abonnés sur ma chaîne.
-On est actuellement à plus de 400 lignes, n'hésitez pas à soutenir le projet en vous abonnant à la chaîne !
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-[Jouer au jeu](https://challenge.anawan.io/)  
-[Voir les vidéos du challenge](https://www.youtube.com/playlist?list=PL0T4aEkqgMC_AnE9pk49pcR2Go2-Mkjp1)
+## Setup
+
+Make sure to install dependencies:
+
+```bash
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
+```
+
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
