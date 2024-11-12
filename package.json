@@ -1,15 +1,13 @@
 {
-  "name": "nuxt-app",
+  "name": "bobby-app",
   "private": true,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "dev": "nuxt dev --host 0.0.0.0"
   },
   "dependencies": {
+    "@nuxt/ui": "^3.0.0-alpha.8",
     "nuxt": "^3.14.159",
     "phaser": "^3.86.0",
     "vue": "latest",
