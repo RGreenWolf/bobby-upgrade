@@ -1,6 +1,8 @@
 export default defineNuxtConfig({
   modules: [
-    "@nuxt/ui"
+    "@nuxt/ui",
+    "@pinia/nuxt",
+    "pinia-plugin-persistedstate/nuxt"
   ],
   "colorMode": {
     "preference": "dark"
