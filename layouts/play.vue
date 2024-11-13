@@ -6,6 +6,7 @@
 <script setup>
 const toasts = useToast()
 toasts.add({
+    "id": "welcome",
     "title": "Bienvenue sur Bobby",
     "description": "Bobby est un jeu en développement fait par anawan-yt"
 })
