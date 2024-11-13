@@ -9,6 +9,7 @@
   "dependencies": {
     "@nuxt/ui": "^3.0.0-alpha.8",
     "@pinia/nuxt": "^0.7.0",
+    "fabric": "^6.4.3",
     "nuxt": "^3.14.159",
     "phaser": "^3.86.0",
     "pinia": "^2.2.6",
